@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.1.1](https://github.com/nodejs/node-gyp/compare/v10.1.0...v10.1.1) (2024-04-03)
+
+
+### Doc
+
+* add the way to configuring Python dependency for Windows PowerShell ([#2996](https://github.com/nodejs/node-gyp/issues/2996)) ([9fd7936](https://github.com/nodejs/node-gyp/commit/9fd7936f0d7232a8a79e6a7b6cbfb814d9042b13))
+
 ## [10.1.0](https://github.com/nodejs/node-gyp/compare/v10.0.1...v10.1.0) (2024-03-13)
 
 
